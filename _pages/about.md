@@ -7,9 +7,7 @@ description: <a href="https://www.ucmerced.edu/">University of California, Merce
 profile:
   align: right
   image: Science Mentor Profile Pic.jpg
-  address: 
-    <p>5200 N. Lake Rd.</p>
-    <p>Merced, CA 95343</p>
+
 
 news: true
 social: true
