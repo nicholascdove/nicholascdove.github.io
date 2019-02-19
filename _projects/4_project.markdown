@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CZ Dust
-description: Aolian inputs of nutrients and microbial communities and their impacts on the Critical Zone
+description: Aolian inputs of nutrients and microbial communities
 img:
 ---
 
