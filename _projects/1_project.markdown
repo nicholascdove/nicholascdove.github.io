@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: SNFC
+description: Sierra Nevada Fire Chronosequence
 img: /assets/img/12.jpg
 ---
 
@@ -11,8 +11,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: Project
-    description: a project with a background image
+    title: SNFC
+    description: Sierra Nevada Fire Chronosequence
     img: /assets/img/12.jpg
     ---
 
