@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep CZ BGC
-description: Microbial ecology and biogeochemical measurements throughout the soil profile
+description: Biogeochemistry throughout the soil profile
 img: /assets/img/1.jpg
 ---
 
