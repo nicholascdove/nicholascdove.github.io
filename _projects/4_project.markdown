@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 4
-description: another without an image
+title: CZ Dust
+description: Aolian inputs of nutrients and microbial communities and their impacts on the Critical Zone
 img:
 ---
 
