@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
+title: NAMP
+description: Nutrient Additions on Microbial Physiology
 img: /assets/img/2.jpg
 ---
 
