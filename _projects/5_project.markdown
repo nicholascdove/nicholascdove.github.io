@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 5
-description: a project with a background image
+title: Deep CZ BGC
+description: Microbial ecology and biogeochemical measurements throughout the soil profile
 img: /assets/img/1.jpg
 ---
 
