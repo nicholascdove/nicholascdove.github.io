@@ -2,13 +2,12 @@
 layout: about
 permalink: /
 title: <strong>Nicholas C. Dove</strong> 
-description: <a href="https://www.ucmerced.edu/">University of California, Merced</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.ucmerced.edu/">University of California, Merced</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
+  address: 
     <p>5200 N. Lake Rd.</p>
     <p>Merced, CA 95343</p>
 
@@ -21,5 +20,3 @@ I am *currently* a Ph.D. candidate (graduating May 2019) studying soil microbial
 In addtion to my academic pursuits, I am also involved in two non-profits that seek to promote equity in the often overlooked <a href="https://www.fresnobee.com/news/local/education/article114766498.html">San Joaquin Valley of California</a>, which Merced sits firmly in the center. I am the Treasurer, board member, and co-founder of <a href="http://ci4ci.org/">Community Inititatives for Collective Impact</a> (CI4CI). We serve as a fiscal sponsor and resource for projects that intergrate higher education and the community for the benefit of the community. We currently sponsor three projects addressing the health of marginalized communities and food security in the San Joaquin Valley. I am also the principal writer for <a href= "https://www.thebiotaproject.org/">The Biota Project</a>, a mixed-media science communication and outreach organization taking a grass roots appraoch for connecting underrepresented communities to symbiotic relationships inj nature and society. 
 
 In my spare time, I enjoy hiking, skiing, traveling, and playing my guitar (poorly).
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
