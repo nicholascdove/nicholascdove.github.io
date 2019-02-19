@@ -1,23 +1,25 @@
 ---
 layout: about
 permalink: /
-title: <strong>Nicholas</strong> Dove
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Nicholas C. Dove</strong> 
+description: <a href="https://www.ucmerced.edu/">University of California, Merced</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5200 N. Lake Rd.</p>
+    <p>Merced, CA 95343</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am *currently* a Ph.D. candidate (graduating May 2019) studying soil microbial ecology and biogeochemistry. Much of my work investigates the interactions between soil microorganisms and their environment. As the principal engines that drive earth's biogeochemical cycles, microbial communities play a central role in regulating the health of our planet. I am particularly interested in how soil microbial communities respond to and in turn affect different aspects of global change (e.g., increasing temperatures, more severe fires, deforestation, etc.).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In addtion to my academic pursuits, I am also involved in two non-profits that seek to promote equity in the often overlooked <a href="https://www.fresnobee.com/news/local/education/article114766498.html">San Joaquin Valley of California</a>, which Merced sits firmly in the center. I am the Treasurer, board member, and co-founder of <a href="http://ci4ci.org/">Community Inititatives for Collective Impact</a> (CI4CI). We serve as a fiscal sponsor and resource for projects that intergrate higher education and the community for the benefit of the community. We currently sponsor three projects addressing the health of marginalized communities and food security in the San Joaquin Valley. I am also the principal writer for <a href= "https://www.thebiotaproject.org/">The Biota Project</a>, a mixed-media science communication and outreach organization taking a grass roots appraoch for connecting underrepresented communities to symbiotic relationships inj nature and society. 
+
+In my spare time, I enjoy hiking, skiing, traveling, and playing my guitar (poorly).
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
