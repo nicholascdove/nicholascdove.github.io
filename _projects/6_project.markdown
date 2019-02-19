@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meta-analyses
-description: Miscellaneous synthesis projects that utilize meta-analytical techniques
+description: Synthesis projects that utilize meta-analytical techniques
 img:
 ---
 
