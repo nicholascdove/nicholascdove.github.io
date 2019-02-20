@@ -7,9 +7,8 @@
     width: 33.33%;
 
     .thumbnail {
-        max-height: 100%;
         max-width: 100%;
-        min-height: 200px;
+        height: 200px;
 
      img {
             object-fit: cover;
