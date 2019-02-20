@@ -15,7 +15,7 @@ The mixed conifer forests of the Sierra Nevada, like many forests of the Western
 
 We know that these high-severity fires have resulted in large changes in the aboveground ecosystem (lots of dead trees and stunted recovery), but we know relatively little about the impacts belowground, which could impact the recovery of the overall ecosystem. We hypothesize that the resillience to this novel disturbance (i.e., disturbance with severity outside the historical range of variation) is much lower than other ecosystems.
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/fig1.jpeg" alt="" title="Map of the Sierra Nevada Fire Chronosequence"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/fig1.jpg" alt="" title="Map of the Sierra Nevada Fire Chronosequence"/>
 </div>
 <div class="col three caption">
     Map of the Sierra Nevada Fire Chronosequence showing fire areas and approximate sampling locations (a). Extent map showing the location of the chronosequence (red box) and the Fire Return Interval Departure (higher values indicate greater fire suppression) for the Sierra Nevada (b).
