@@ -18,3 +18,5 @@ We used a 4.5 y whole-profile soil warming experiment coupled with laboratory in
 
 This work is a part of the <a href="https://tes.lbl.gov/">Terrestrial Ecosystem Science</a>, Scientific Focus Area project in collaboration with colleagues from <a href="https://www.lbl.gov/">Lawrence Berkeley National Laboratory</a> (where I worked for a-10 month fellowship).
 
+<img class="col three left" src="{{ site.baseurl }}/assets/img/soilcore.jpg" alt="" title="Sampling soil cores from the warming experiment"/>
+
