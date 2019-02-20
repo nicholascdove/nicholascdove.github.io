@@ -9,8 +9,7 @@ CZIMEA is an EarthCube integrative activities project with the goal to lay the g
 
 The project leverages the Critical Zone Observatory Network representing a wide range of hydrogeological provinces, soil orders, and biomes. At each site, we collected soils to a depth of 1 m at 10 cm increments.
 
-<img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="The Critical Zone Observatory Network"/>
-</div>
+<img class="col three left" src="{{ site.baseurl }}/assets/img/czomap.jpg" alt="" title="The Critical Zone Observatory Network"/>
 <div class="col three caption">
     The Critical Zone Observatory Network
 </div>
