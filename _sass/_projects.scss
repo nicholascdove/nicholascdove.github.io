@@ -8,12 +8,12 @@
 
     .thumbnail {
         max-height: 100%;
-        max-width: 100%;
+        max-width: auto;
 
         img {
             max-height: 100%;
             position: static;
-            max-width: 100%;
+            max-width: auto;
         }
 
         a {
