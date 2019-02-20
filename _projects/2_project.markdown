@@ -5,16 +5,10 @@ description: Nutrient Additions on Microbial Physiology
 img: /assets/img/2.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+While soils store ~1500 Pg of carbon (C), it is currently unclear how climate change will affect this large C pool. The effect of temperature on enzyme kinetics predicts that as temperatures warm, microbial activity and cellular respiration will increase, releasing C from soils into the atmosphere. However, the long-term effect of warming on soil likely impacts a myriad of factors affecting the persistence of soil C. Recent evidence from a 20-y warming experiment suggests that soil respiration responds non-monotonically to warming over time; although, the mechanistic factors for this have yet to be elucidated. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+We used a 4.5 y whole-profile soil warming experiment coupled with laboratory incubations amended with different resources to show that soil microbial communities in warmed soils have altered nutrient demands, which profoundly impacts their community composition and metabolism. These differences could account for previously unexplained patterns, and these insights could help constrain predictions for soil C persistence in a warmed world.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 
 <div class="img_row">
