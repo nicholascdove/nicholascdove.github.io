@@ -2,7 +2,7 @@
 layout: page
 title: SNFC
 description: Sierra Nevada Fire Chronosequence
-img: /assets/img/12.jpg
+img: /assets/img/LakeForkFire.jpg
 ---
 
 The mixed conifer forests of the Sierra Nevada, like many forests of the Western United States, are evolutionarily adapted to frequent, low-severity fire. Prior to European settlement, these forests would experience light, surface fires that would maintain ecosystem health by mineralizing nutrients for plant uptake and clearing small trees to allow for an open park-like canopy. However, with the onset of fire suppression (and absence of same surface fires), plant densities have increased. Now, when fires do burn, they burn at a higher severity than the biota are adapted to. 
