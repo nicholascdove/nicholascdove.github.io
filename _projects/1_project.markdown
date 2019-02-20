@@ -6,8 +6,6 @@ img: /assets/img/12.jpg
 ---
 
 The mixed conifer forests of the Sierra Nevada, like many forests of the Western United States, are evolutionarily adapted to frequent, low-severity fire. Prior to European settlement, these forests would experience light, surface fires that would maintain ecosystem health by mineralizing nutrients for plant uptake and clearing small trees to allow for an open park-like canopy. However, with the onset of fire suppression (and absence of same surface fires), plant densities have increased. Now, when fires do burn, they burn at a higher severity than the biota are adapted to. 
-
-</div>
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="Forest structure affects fire severity"/>
 </div>
@@ -16,8 +14,6 @@ The mixed conifer forests of the Sierra Nevada, like many forests of the Western
 </div>
 
 We know that these high-severity fires have resulted in large changes in the aboveground ecosystem (lots of dead trees and stunted recovery), but we know relatively little about the impacts belowground, which could impact the recovery of the overall ecosystem. We hypothesize that the resillience to this novel disturbance (i.e., disturbance with severity outside the historical range of variation) is much lower than other ecosystems.
-
-</div>
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="Map of the Sierra Nevada Fire Chronosequence"/>
 </div>
@@ -26,8 +22,6 @@ We know that these high-severity fires have resulted in large changes in the abo
 </div>
 
 To test this hypothesis and elucidate the mechanisms of soil recovery, we set up a fire chronosequence in the Central Sierra Nevada, a highly fire-suppressed region. A fire chronosequence is a method of simulating long-term recovery of fire. We use time-for-spcae substitution, which basically means we go to locations (spaces) that burned at different times in the past. By controlling for different soil types, climates, vegetation, etc., we can assume that the recovery trajectory of these different locations is similar. Hence, we can track the recovery of the ecosystem through time.
-
-</div>
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
 </div>
