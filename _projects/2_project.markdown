@@ -16,7 +16,7 @@ While soils store ~1500 Pg of carbon (C), it is currently unclear how climate ch
 
 We used a 4.5 y whole-profile soil warming experiment coupled with laboratory incubations amended with different resources to show that soil microbial communities in warmed soils have altered nutrient demands, which profoundly impacts their community composition and metabolism. These differences could account for previously unexplained patterns, and these insights could help constrain predictions for soil C persistence in a warmed world.
 
-This work is a part of the <a href="https://tes.lbl.gov/">Terrestrial Ecosystem Science</a>, Scientific Focus Area project in collaboration with colleagues from <a href="https://www.lbl.gov/">Lawrence Berkeley National Laboratory</a> (where I worked for a-10 month fellowship).
+This work is a part of the <a href="https://tes.lbl.gov/">Terrestrial Ecosystem Science</a>, Scientific Focus Area project in collaboration with colleagues from <a href="https://www.lbl.gov/">Lawrence Berkeley National Laboratory</a> (where I worked for a 10-month fellowship).
 
 <img class="col three left" src="{{ site.baseurl }}/assets/img/soilcore.jpg" alt="" title="Sampling soil cores from the warming experiment"/>
 
