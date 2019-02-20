@@ -7,7 +7,7 @@ img: /assets/img/12.jpg
 
 The mixed conifer forests of the Sierra Nevada, like many forests of the Western United States, are evolutionarily adapted to frequent, low-severity fire. Prior to European settlement, these forests would experience light, surface fires that would maintain ecosystem health by mineralizing nutrients for plant uptake and clearing small trees to allow for an open park-like canopy. However, with the onset of fire suppression (and absence of same surface fires), plant densities have increased. Now, when fires do burn, they burn at a higher severity than the biota are adapted to. 
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="Forest structure affects fire severity"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/fig2.jpg" alt="" title="Forest structure affects fire severity"/>
 </div>
 <div class="col three caption">
     Historical forest structures (upper-left) burn at relatively lower severities (upper-right). However, when fire is excluded from these forests, forests become dominated by small, dense trees (lower-left). When these burn, fires are relatively larger (lower-right). 
