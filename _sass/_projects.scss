@@ -7,13 +7,15 @@
     width: 33.33%;
 
     .thumbnail {
-        max-height: 250px;
-        max-width: 33.33%;
+        max-height: 100%;
+        max-width: 100%;
+        min-height: 250px;
 
         img {
-            max-height: 250px;
+            max-height: 100%;
             position: static;
-            max-width: 33.33%;
+            max-width: 100%;
+            min-height: 250px;
         }
 
         a {
