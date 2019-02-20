@@ -5,51 +5,10 @@ description: Aolian inputs of nutrients and microbial communities
 img:
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+The Sierra Nevada have some of the most-productive forests in the world, growing the largest species of tree (Giant Sequoia). However, Sierra Nevada soils are underlaid by phosphorus-poor bedrock. Since phosphorus is an important nutrient for plant growth, a critical question is how do these soils then support these important forests. Aolian (i.e., dust) inputs can be very important in supporting forest productivity on nutrient-poor soils. In this project, we set out to measure dust inputs, dust nutrient concentrations, and dust provenance (i.e., where the dust came from). Using stable isotope tracking, we discovered that 20-45% of the dust was Gobi Desert derived, travelling across the Pacific Ocean and settling in the Sierra Nevada mountains. Furthermore, this dust supplied over half the total phosphorus inputs into the ecosystem.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+You can find the first paper related to this work here along with this popular science article written about the study.
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We are continuing our dust measurements to determine the influence of competing regional droughts on the provenance of dust inputs. Additionally, we are interested in dust as a mode of transportation by microorganisms and how this may contribute to the microbial community assembly of forest soils.
 
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
