@@ -11,4 +11,7 @@ You can find the first paper related to this work here along with this popular s
 
 We are continuing our dust measurements to determine the influence of competing regional droughts on the provenance of dust inputs. Additionally, we are interested in dust as a mode of transportation by microorganisms and how this may contribute to the microbial community assembly of forest soils.
 
-
+<img class="col three left" src="{{ site.baseurl }}/assets/img/IMG_3137.jpg" alt="" title="Giant Sequoia"/>
+<div class="col three caption">
+    Giant Sequoias, like this one, depend on dust-derived nutrients to grow.
+</div>
