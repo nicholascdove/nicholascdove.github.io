@@ -23,7 +23,7 @@ We know that these high-severity fires have resulted in large changes in the abo
 
 To test this hypothesis and elucidate the mechanisms of soil recovery, we set up a fire chronosequence in the Central Sierra Nevada, a highly fire-suppressed region. A fire chronosequence is a method of simulating long-term recovery of fire. We use time-for-spcae substitution, which basically means we go to locations (spaces) that burned at different times in the past. By controlling for different soil types, climates, vegetation, etc., we can assume that the recovery trajectory of these different locations is similar. Hence, we can track the recovery of the ecosystem through time.
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/map.tiff" alt="" title="Hypothesized model"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/map.tif" alt="" title="Hypothesized model"/>
 </div>
 <div class="col three caption">
     Conceptual model of hypothesized recovery of ecosystem function after different disturbances. We hypothesize that while high-severity disturbances (gray line) may result in greater functional responses than low-severity disturbances (black line), resilience is most impacted by novel disturbances (orange line; e.g., wildfire with severity greater than the historic range of variation).
