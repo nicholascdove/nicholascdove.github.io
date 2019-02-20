@@ -23,7 +23,7 @@ We know that these high-severity fires have resulted in large changes in the abo
 
 To test this hypothesis and elucidate the mechanisms of soil recovery, we set up a fire chronosequence in the Central Sierra Nevada, a highly fire-suppressed region. A fire chronosequence is a method of simulating long-term recovery of fire. We use time-for-spcae substitution, which basically means we go to locations (spaces) that burned at different times in the past. By controlling for different soil types, climates, vegetation, etc., we can assume that the recovery trajectory of these different locations is similar. Hence, we can track the recovery of the ecosystem through time.
 
-<img class="col three left" src="{{ site.baseurl }}/assets/img/map.png" alt="" title="Map of the Sierra Nevada Fire Chronosequence"/>
+<img class="col three left" src="{{ site.baseurl }}/assets/img/map.png" alt="" title="Maps of the Sierra Nevada Fire Chronosequence"/>
 </div>
 <div class="col three caption">
     Map of the Sierra Nevada Fire Chronosequence showing fire areas and approximate sampling locations (a). Extent map showing the location of the chronosequence (red box) and the Fire Return Interval Departure (higher values indicate greater fire suppression) for the Sierra Nevada (b).
