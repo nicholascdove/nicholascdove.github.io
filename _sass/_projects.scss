@@ -11,12 +11,11 @@
         max-width: 100%;
         min-height: 250px;
 
-        img {
-            max-height: 100%;
-            position: static;
-            max-width: 100%;
-            min-height: 250px;
-        }
+     .scale-image {
+            object-fit: cover;
+            width: 150px;
+            height: 150px;
+            }
 
         a {
             float: left;
