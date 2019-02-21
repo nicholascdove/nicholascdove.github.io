@@ -9,5 +9,5 @@ Most soil microbial ecology is studied in the upper 20 cm; yet, important microb
 
 <img class="col three left" src="{{ site.baseurl }}/assets/img/IMG_3180.JPG" alt="" title="Everyone in the pit"/>
 <div class="col three caption">
-    This image can also have a caption. It's like magic.
+    Kimber Moreland (left), myself (center), and Morgan Barnes (right) collecting soils from this 2+ m pit!
 </div>
