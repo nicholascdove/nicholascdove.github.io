@@ -2,7 +2,7 @@
 layout: page
 title: Meta-analyses
 description: Miscellaneous synthesis projects
-img:
+img: /assets/img/meta-analysis.jpg
 ---
 
 Meta-analyses are a powerful, quantitative way to synthesize data from many studies. They are particularly useful in the field of ecology as there can be site-specific processes that can influence finding from one region to another.
