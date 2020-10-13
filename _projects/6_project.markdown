@@ -21,7 +21,7 @@ To look at longer-term differences, we are leveraging the largest organism on pl
     Pando is widely considered to be Earth's most massive organism.
 </div>
 
-Additionally, we are also interested in how the plant microbiome responds to fire and insect infestation. See our latest paper published on the effects of the hemlock woolly adelgid on the hemlock microbiome published in  <a>href="https://www.frontiersin.org/articles/10.3389/fmicb.2020.01528/full"> Frontiers in Microbiology</a>. Also, check out the <a>href="https://www.youtube.com/watch?v=wTw79MD5x6Y"> video</a> of my presentation.
+Additionally, we are also interested in how the plant microbiome responds to fire and insect infestation. See our latest paper published on the effects of the hemlock woolly adelgid on the hemlock microbiome published in  <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2020.01528/full"> Frontiers in Microbiology</a>. Also, check out the <a href="https://www.youtube.com/watch?v=wTw79MD5x6Y"> video</a> of my presentation.
 
 <img class="col three left" src="{{ site.baseurl }}/assets/img/IMG_2433.JPG" alt="" title="Regenerating aspen plants"/>
 <div class="col three caption">
