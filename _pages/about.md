@@ -2,14 +2,14 @@
 layout: about
 permalink: /
 title: <strong>Nicholas C. Dove</strong> 
-description: <a href="https://www.ucmerced.edu/">University of California, Merced</a>
+description: <a href="https://www.ornl.gov/">Oak Ridge National Laboratory</a>
 
 profile:
   align: right
   image: Science Mentor Profile Pic.jpg
 
 
-news: true
+news: false
 social: true
 ---
 
