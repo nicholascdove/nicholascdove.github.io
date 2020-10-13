@@ -26,6 +26,6 @@ To test this hypothesis and elucidate the mechanisms of soil recovery, we set up
 
 We are using a traditional biogeochemical assays coupled with next-generation sequencing of microbial DNA to look at the recovery of the microbial communities and their function in response to high-severity fire.
 
-Check back soon for updates on publications associated with this work.
+The first paper in this project was just recently <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.2072"> published</a> in Ecological Applications. Check back soon for updates on more publications associated with this work.
 
 <img class="col three left" src="{{ site.baseurl }}/assets/img/sampling_fire.jpg" alt="" title="Sampling at the 4-y site"/>
