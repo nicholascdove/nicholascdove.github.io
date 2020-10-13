@@ -9,7 +9,7 @@ A growing body of literature recognizes that microorganisms living inside or in 
 
 We use a common garden approach to look for seasonal differences in the plant microbiome across Poplar genotypes.
 
-<img class="col three left" src="{{ site.baseurl }}/assets/img/BC_young.png" alt="" title="First Season at Blount County"/>
+<img class="col one left" src="{{ site.baseurl }}/assets/img/BC_young.png" alt="" title="First Season at Blount County"/>
 <div class="col three caption">
     Blount County Poplar Common Garden after its first growing season.
 </div>
