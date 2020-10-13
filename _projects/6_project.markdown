@@ -2,7 +2,7 @@
 layout: page
 title: Plant-microbe Interactions
 description: Investigating the plant microbiome
-img: /assets/img/meta-analysis.jpg
+img: /assets/img/PMI_overviee.jpg
 ---
 
 A growing body of literature recognizes that microorganisms living inside or in close association with plant tissues, collectively known as the plant microbiome, are integral to plant health and survival. However, our understanding of the temporal dynamics of these systems is lacking. To this end, we are investigating seasonal and longer-term changes in the microbial community across mutliple plant tissues.
