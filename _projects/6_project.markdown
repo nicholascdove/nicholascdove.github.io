@@ -16,7 +16,7 @@ We use a common garden approach to look for seasonal differences in the plant mi
 
 To look at longer-term differences, we are leveraging the largest organism on planet earth: Pando. Pando is a clonal aspen stand that covers approximatly 140 acres. Because this is one organism, we can control for plant genotype and sample stems of different ages. In this way we can discover how the plant microbiome may change as a plant ages over time.
 
-<img class="col three left" src="{{ site.baseurl }}/assets/img/IMG_2411.JPG" alt="" title="Pando"/>
+<img class="col three left" src="{{ site.baseurl }}/assets/img/IMG_2411.jpg" alt="" title="Pando"/>
 <div class="col three caption">
     Pando is widely considered to be Earth's most massive organism.
 </div>
