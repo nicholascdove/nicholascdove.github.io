@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+  }
+
+  ::selection {
+    @apply bg-accent/20 text-accent-dark;
+  }
+}
+
+@layer components {
+  .section-heading {
+    @apply text-3xl font-bold tracking-tight text-gray-900 mb-2;
+  }
+
+  .section-subtext {
+    @apply text-gray-500 text-sm uppercase tracking-widest font-medium mb-10;
+  }
+
+  .nav-link {
+    @apply text-sm font-medium text-gray-600 hover:text-accent transition-colors duration-200;
+  }
+}
