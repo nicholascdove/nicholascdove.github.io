@@ -5,3 +5,9 @@ _site
 .ruby-version
 Gemfile.lock
 
+
+# Next.js
+.next/
+out/
+node_modules/
+next-env.d.ts
