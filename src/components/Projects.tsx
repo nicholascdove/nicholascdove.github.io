@@ -37,15 +37,15 @@ const projects: Project[] = [
     description:
       'Designed and built novel bioinformatics pipelines to support biosurfactant discovery from microbial genome databases. Demonstrated how computational approaches can accelerate early-stage R&D by identifying candidate genes and organisms — a case study in translating bioinformatics methods to address real business needs.',
     tags: ['Pipeline Development', 'Genomics', 'Applied Bioinformatics', 'Drug Discovery'],
-    image: '/images/projects/agbiome.jpg',
+    image: '/images/projects/biosurfactant.png',
   },
   {
     title: 'Chance-it',
     subtitle: 'Personal Project',
     description:
-      'A lightweight Flask web app that pulls a list of options from a Google Sheet and randomly selects one. Built for those moments when you need a fast, shareable, zero-setup decision-maker — just drop your choices in a spreadsheet and let the app decide.',
+      'A deeply serious tool for Bayesian decision-making under uncertainty.You are shown an artist drawn from a curated prior distribution. You can accept it — locking in your known utility — or you can chance it, sampling from the posterior with replacement. The catch, of course, is that the distribution is flat. Every artist has equal probability mass. Your prior is irrelevant.',
     tags: ['Python', 'Flask', 'Google Sheets API', 'Web App'],
-    image: '',
+    image: '/images/projects/chanceit.png',
     link: 'https://github.com/nicholascdove/chance_it',
     linkLabel: 'View on GitHub',
   },
