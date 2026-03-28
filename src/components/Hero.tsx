@@ -69,11 +69,13 @@ export default function Hero() {
             </p>
 
             <p className="text-gray-600 leading-relaxed max-w-xl mx-auto md:mx-0 mb-8">
-              I&apos;m a bioinformatician and microbial ecologist working at the intersection of
-              computational biology and environmental science. At Mayo Clinic, I develop novel
-              bioinformatics workflows to address complex biological questions. My research spans
+              I&apos;m a bioinformatics data scientist working to create novel software solutions 
+              across a variety of topic areas. At Mayo Clinic, I focus on single-cell resolved 
+              spatial biology and AI-driven drug discovery. Previously, my research spanned
               shotgun metagenomics, multi-omics, and plant–microbe interactions — with a focus on
               how microbial communities shape ecosystem function and human health.
+
+              Outside of work, I can be found enjoying the great outdoors, generally on one of my bicycles.
             </p>
 
             <p className="text-gray-500 leading-relaxed max-w-xl mx-auto md:mx-0 mb-10 text-sm">
